@@ -1,0 +1,15 @@
+Algos
+- Search
+- Sorting
+- Dynamic programming
+- Graph or tree traversing
+- String pattern matching
+
+DS
+- Stacks
+- Linked lists
+- Queues
+- Maps
+= Hash tables
+- Search trees
+- Sets
