@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class MergeSort {
     
     public int[] sort(int[] arr){
@@ -61,7 +63,7 @@ public class MergeSort {
         int[] arr = {12, 11, 13, 5, 6, 7 };
         MergeSort ms = new MergeSort();
         int[] sortedArr = ms.sort(arr);
-        System.out.println("[" + sortedArr[0]  + "," + sortedArr[1] + "," + sortedArr[2] + "," + sortedArr[3] + "," + sortedArr[4] + "," + sortedArr[5] + "]");
+        System.out.println(Arrays.toString(sortedArr));
     }
 
 
@@ -70,8 +72,6 @@ public class MergeSort {
     //  1 2  3 4   5 6  7 8 9
     //  1  2  3  4   5 6   7  8 9
     //  1  2  3  4   5  6  7  8  9
-
-
 
 
 }
