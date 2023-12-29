@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+//worst case 0(n^2) time complexity
 public class InsertionSort {
     
     public int[] sort (int[] arr){
