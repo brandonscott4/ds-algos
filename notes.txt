@@ -1,0 +1,8 @@
+for array representation of heap/tree 
+    (for index starting at 1)
+    if a Node is at index - i
+        its leftchild is at - 2*i
+        its right child is at 2*i+1
+        its parent is at - floor(i/2)
+    
+    if there are any null elements in the array the tree is not 'complete'
