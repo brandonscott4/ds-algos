@@ -1,27 +1,27 @@
 package dsImplementation;
 
-public class Node {
-    private Node left;
-    private Node right;
+public class TreeNode {
+    private TreeNode left;
+    private TreeNode right;
     private final int val;
 
-    public Node(int val){
+    public TreeNode(int val){
         this.val = val;
     }
 
-    public Node getLeft(){
+    public TreeNode getLeft(){
         return left;
     }
 
-    public void setLeft(Node left){
+    public void setLeft(TreeNode left){
         this.left = left;
     }
 
-    public Node getRight(){
+    public TreeNode getRight(){
         return right;
     }
 
-    public void setRight(Node right){
+    public void setRight(TreeNode right){
         this.right = right;
     }
 
