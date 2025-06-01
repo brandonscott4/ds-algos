@@ -1,3 +1,5 @@
+package sortingAlgos;
+
 import java.util.Arrays;
 
 public class BubbleSort {

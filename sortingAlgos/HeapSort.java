@@ -1,3 +1,4 @@
+package sortingAlgos;
 //resource: https://www.youtube.com/watch?v=HqPJF2L5h9U&ab_channel=AbdulBari
 
 import java.util.Arrays;

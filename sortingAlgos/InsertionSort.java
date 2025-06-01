@@ -1,3 +1,5 @@
+package sortingAlgos;
+
 import java.util.Arrays;
 
 //worst case 0(n^2) time complexity

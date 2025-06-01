@@ -1,3 +1,5 @@
+package sortingAlgos;
+
 //pivot is important here
 //worst case: O(n^2)
 
